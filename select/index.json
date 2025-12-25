@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Lingo",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-25T05:12:48.233701Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Latin Lingo",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/01_Latin_Lingo_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Latin Lingo - Blackout Mix",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/02_Latin_Lingo_-_Blackout_Mix_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Latin Lingo - Prince Paul Mix",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/03_Latin_Lingo_-_Prince_Paul_Mix_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Latin Lingo (Prince Paul Mix)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/04_Latin_Lingo_(Prince_Paul_Mix)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lingo",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/05_Lingo_aespa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Latin Lingo (blackout Mix)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/06_Latin_Lingo_(blackout_Mix)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Latino Lingo (Latin Lingo)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/07_Latino_Lingo_(Latin_Lingo)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Latino Lingo",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/08_Latino_Lingo_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "El Tilingo Lingo",
+      "artist": "Sones Jarochos",
+      "has_synced": false,
+      "path": "select/09_El_Tilingo_Lingo_Sones_Jarochos.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Latino lingo (Blackout mix)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/10_Latino_lingo_(Blackout_mix)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Latino lingo (Latin Lingo)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/11_Latino_lingo_(Latin_Lingo)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be Prepared (feat. Che Lingo)",
+      "artist": "Hiroaki Tsutsumi",
+      "has_synced": true,
+      "path": "select/12_Be_Prepared_(feat._Che_Lingo)_Hiroaki_Tsutsumi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Latin Lingo (Prince Paul Mix)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/13_Latin_Lingo_(Prince_Paul_Mix)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Plug Lingo",
+      "artist": "Young Scooter",
+      "has_synced": true,
+      "path": "select/14_Plug_Lingo_Young_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lingo",
+      "artist": "aespa (에스파)",
+      "has_synced": true,
+      "path": "select/15_Lingo_aespa_(에스파).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spicy Lingo",
+      "artist": "Rio Da Yung Og feat. Rmc Mike",
+      "has_synced": true,
+      "path": "select/16_Spicy_Lingo_Rio_Da_Yung_Og_feat._Rmc_Mike.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spicy Lingo",
+      "artist": "Rio Da Yung Og",
+      "has_synced": true,
+      "path": "select/17_Spicy_Lingo_Rio_Da_Yung_Og.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lingo",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Lingo_aespa.txt"
+    }
+  ]
+}
